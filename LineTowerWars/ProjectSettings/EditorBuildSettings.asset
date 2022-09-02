@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Client/ClientPreload.unity
+    guid: 4daaf6062d2d26f4e89ef516c9cfbe64
+  - enabled: 1
+    path: Assets/Scenes/shared/shared.unity
+    guid: 206c01efeaefbac4ba24f78563f9fbfa
+  - enabled: 1
+    path: Assets/Scenes/Map/Map.unity
+    guid: f488f34e19c2ef844bcb00883649dc0d
+  - enabled: 1
+    path: Assets/Scenes/Client/ClientMainMenu.unity
+    guid: e025fbc66404cc04daeaa54a2bcc466d
+  - enabled: 1
+    path: Assets/Scenes/Client/ClientLobby.unity
+    guid: 26eddca14e120354baa9784472202007
+  - enabled: 1
+    path: Assets/Scenes/Client/ClientInGame.unity
+    guid: 7699afdff27bb9844af0e508392659ef
+  m_configObjects: {}

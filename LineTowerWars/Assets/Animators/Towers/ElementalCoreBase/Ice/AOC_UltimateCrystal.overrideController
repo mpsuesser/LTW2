@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AOC_UltimateCrystal
+  m_Controller: {fileID: 9100000, guid: ef7b10a7f233c094d839e246d97ee8b1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 457796991906702257, guid: 4525606c58d74d7478da6ead4c4be29d, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: b50e1cf3d409dc34293ff23bd1701d0e, type: 2}
